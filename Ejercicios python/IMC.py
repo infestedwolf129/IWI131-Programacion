@@ -1,0 +1,3 @@
+#INDICE DE MASA CORPORAL EN LB PIE Y PULGADA
+#IMC = masa/altura**2
+
